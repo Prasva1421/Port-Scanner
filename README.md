@@ -22,3 +22,7 @@ Getting started with PortScanner is a breeze! Clone the repository, configure yo
     cd Port-Scanner
     python3 -m pip install -r requirements.txt
     python3 portscanner.py
+
+Disclaimer:
+
+Please note that PortScanner is intended to be used responsibly and ethically. Always obtain proper authorization before scanning any network that you do not own or have permission to scan. The developers of PortScanner are not liable for any misuse or damage caused by its usage.

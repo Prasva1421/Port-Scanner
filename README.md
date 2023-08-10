@@ -15,3 +15,9 @@ Key Features:
 
 How to Use:
 Getting started with PortScanner is a breeze! Clone the repository, configure your scan preferences, and execute scans using simple commands. Whether you're aiming to assess your own network's security posture or investigating potential vulnerabilities, PortScanner provides the tools you need to do so effectively.
+
+# Installation:
+git clone https://github.com/Prasva1421/Port-Scanner.git
+cd Port-Scanner
+python3 -m pip install -r requirements.txt
+python3 portscanner.py
